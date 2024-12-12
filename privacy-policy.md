@@ -52,7 +52,7 @@ Kami mengambil langkah-langkah yang wajar untuk melindungi informasi Anda dari a
 Anda memiliki hak berikut terkait informasi pribadi Anda:
 
 * **Akses dan Koreksi:** 
-    * Anda dapat mengakses, memperbarui, atau mengoreksi informasi pribadi Anda melalui menu profil di aplikasi. Anda juga dapat menghubungi kami di devwisatapedia@gmail.com untuk meminta akses atau koreksi data.
+    * Anda dapat mengakses, memperbarui, atau mengoreksi informasi pribadi Anda melalui menu profil di aplikasi. Anda juga dapat menghubungi kami di contact@suryamedikasatui.com untuk meminta akses atau koreksi data.
 * **Penghapusan:** 
     * Anda dapat menghapus akun Anda melalui menu profil di aplikasi. Penghapusan akun akan menghapus semua informasi pribadi Anda dari sistem kami, tetapi mungkin memerlukan waktu hingga 14 hari untuk sepenuhnya dihapus. Perlu diketahui bahwa menghapus akun Anda dapat membatasi akses Anda ke layanan kami.
 * **Penarikan Persetujuan:** 
